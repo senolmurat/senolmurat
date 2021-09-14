@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+    I'm graduated from Marmara Univeristy CSE in 2021. Mostly interested in app development(Web & Mobile).And I also like to create mods for the games like Skyrim , 
+    Crusader kings 3 and some other games. 
+
 <!--
 **senolmurat/senolmurat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
