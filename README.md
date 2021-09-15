@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I graduated from Marmara Univeristy CSE in 2021. Mostly interested in app development(Web & Mobile).And I also like to create mods for the games like Skyrim , Crusader Kings 3 and some other games.
+#### I graduated from Marmara Univeristy CSE in 2021. Mostly interested in app development(Web & Mobile).And I also like to create mods for Skyrim , Crusader Kings 3 and some other games.
 
 ![alt text](https://github.com/senolmurat/senolmurat/blob/main/icons/nexus/nexus-icon-x32.png?raw=true) [Nexus Mods](https://www.nexusmods.com/users/121694898?tab=user+files)
 
