@@ -1,10 +1,17 @@
 ### Hi there 👋
-####  Graduated from Marmara Univeristy-CSE. Mostly interested in app development(Web & Mobile). Currently working as an outsource iOS Software Developer to Albanian Bank BKT(Banka Kombetare Tregtare) , part of the team responsible for developing the bank's iOS mobile application.
-####  I also like to create mods for Skyrim , Crusader Kings 3 and some other games.
 
-![alt text](https://github.com/senolmurat/senolmurat/blob/main/icons/nexus/nexus-icon-x32.png?raw=true) [Nexus Mods](https://www.nexusmods.com/users/121694898?tab=user+files)
+I'm a computer science graduate from Marmara University, passionate about **app development** (Web & Mobile). Currently, I'm working as an outsource **iOS Software Developer** for Banka Kombetare Tregtare (BKT), contributing to their mobile banking application.
 
-![alt text](https://github.com/senolmurat/senolmurat/blob/main/icons/steam/steam-icon-x32.png?raw=true) [Steam workshop](https://steamcommunity.com/profiles/76561198048820248/myworkshopfiles/)
+Beyond coding, I enjoy diving into the world of **modding** for titles like Skyrim and Crusader Kings 3.
+
+---
+
+### Check out my [portfolio page](https://muratsenol.gitlab.io/portfolio/)
+
+### Check out my modding pages:
+
+[![Nexus Mods](https://github.com/senolmurat/senolmurat/blob/main/icons/nexus/nexus-icon-x32.png?raw=true)](https://www.nexusmods.com/users/121694898?tab=user+files)
+[![Steam Workshop](https://github.com/senolmurat/senolmurat/blob/main/icons/steam/steam-icon-x32.png?raw=true)](https://steamcommunity.com/profiles/76561198048820248/myworkshopfiles/)
 
       
 
